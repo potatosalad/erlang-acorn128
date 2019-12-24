@@ -10,7 +10,6 @@
 		stdlib
 	]},
 	{modules, []},
-	{maintainers, ["Andrew Bennett"]},
 	{licenses, ["MIT"]},
 	{links, [{"Github", "https://github.com/potatosalad/erlang-acorn128"}]}
 ]}.
