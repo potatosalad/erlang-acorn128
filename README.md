@@ -13,7 +13,7 @@ Add `acorn128` to your project's dependencies in `mix.exs`
 ```elixir
 defp deps do
   [
-    {:acorn128, "~> 1.0"}
+    {:acorn128, "~> 0.0.1"}
   ]
 end
 ```
